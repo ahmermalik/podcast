@@ -1,0 +1,28 @@
+{
+  "name": "crypto_decryptd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "admin.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "bootstrap": "^4.0.0",
+    "hbs": "^4.0.1",
+    "nodemon": "^1.14.12",
+    "pg-promise": "^7.4.1",
+    "request": "^2.83.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.14.12"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "crypto",
+    "currency",
+    "podcast",
+    "website"
+  ],
+  "author": "ahmer malik",
+  "license": "ISC"
+}
