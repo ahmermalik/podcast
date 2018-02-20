@@ -25,6 +25,7 @@ app.get("/trending", function (request, response) {
     let query = ""
     response.render('trending.hbs');
 });
+
 app.get("/contact", function (request, response) {
     let query = ""
     response.render('contact.hbs');
